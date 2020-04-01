@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kotlin1</string>
+    <string name="estado">ESTADO</string>
+
+    <!-- ESTADOS -->
+    <string name="normal">NORMAL</string>
+    <string name="precaucion">PRECAUCION</string>
+    <string name="peligro">PELIGRO</string>
+
+    <!-- NIVELES DE AGUA -->
+    <string name="bajo">BAJO</string>
+    <string name="medio">MEDIO</string>
+    <string name="alto">ALTO</string>
+
+    <!-- BOMBAS -->
+    <string name="valvula1">BOMBA 1</string>
+    <string name="valvula2">BOMBA 2</string>
+    <string name="valvula3">BOMBA 3</string>
+
+    <!-- FUNCIONES DE BOMBAS -->
+    <string name="activada">Activada</string>
+    <string name="desactivada">Desactivada</string>
+    <string name="nivel">NIVEL</string>
+    <string name="cantidad">Cantidad de Agua</string>
+    <string name="cantidad_de_valvulas">Bombas</string>
+    <string name="minus">minus</string>
+    <string name="plus">plus</string>
+</resources>
